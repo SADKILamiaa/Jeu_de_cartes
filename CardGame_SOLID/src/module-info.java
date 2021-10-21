@@ -1,0 +1,2 @@
+module CardGame_SOLID {
+}
